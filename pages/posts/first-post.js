@@ -8,6 +8,10 @@ export default function FirstPost() {
         <h2>
           <Link href="/">Back to home</Link>
         </h2>
+        <h2>
+          <Link href="/ball-colliding.html">공 튀기기 </Link>
+        </h2>
+      
       </>
     );
   }
